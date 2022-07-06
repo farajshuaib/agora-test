@@ -84,7 +84,7 @@ const generateRTCToken = (req, resp) => {
 
 // main app request url ... eg: if you request http://localhost:8080/ it will return "Hello World" as a string ...
 app.get("/", (req, res) => {
-    res.send("Hello World!");
+    res.send("استشرني!");
 });
 
 
